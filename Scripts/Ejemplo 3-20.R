@@ -1,5 +1,7 @@
 # Ejemplo del almacen para RL con variables cualitativas
 
+# Pagina 131 Notas de clase prof Carlos Mario
+
 # Para cargar las funciones del curso
 source("https://raw.githubusercontent.com/fhernanb/Repo_curso_estadistica_2/main/Funciones/funciones.R")
 

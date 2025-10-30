@@ -1,5 +1,7 @@
 # Ejemplo de RLM con varios tipos de preguntas
 
+# Pagina 111 Notas de clase prof Carlos Mario
+
 # Se tienen los resultados de cuatro pruebas para la selección de 
 # personal (X1; X2; X3; X4) que fueron aplicadas a un grupo de 20 
 # aspirantes a cargos administrativos en una agencia gubernamental. 
