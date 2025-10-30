@@ -120,9 +120,7 @@ mod7
 # Para cargar las funciones del curso
 source("https://raw.githubusercontent.com/fhernanb/Repo_curso_estadistica_2/main/Funciones/funciones.R")
 
-mod <- lm(y ~ x1 + x2 + x3 +x4, data=datos)
-
-attach(datos)
+mod <- lm(y ~ x1 + x2 + x3 + x4, data=datos)
 
 myStepwise(full.model=mod, alpha.to.enter=0.05, alpha.to.leave=0.05)
 

@@ -21,7 +21,7 @@ colnames(datos) <- c("y", "x1", "x2", "x3", "x4")
 # Seleccion Backward manual ------------------------------------------------
 
 # Modelo inicial con todas las covariables
-mod0 <- lm(y ~ x1 + x2 + x3 +x4, data=datos)
+mod0 <- lm(y ~ x1 + x2 + x3 + x4, data=datos)
 SSRes0 <- sum(residuals(mod0)^2)
 
 # ----- Iteracion 1 ---------
